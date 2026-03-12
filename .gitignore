@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+data/*.json
+.streamlit/
+build/
+dist/
+*.egg-info
